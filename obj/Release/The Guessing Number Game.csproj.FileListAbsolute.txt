@@ -1,0 +1,5 @@
+C:\Users\Socia\Desktop\Visual Studio Projects\The Guessing Number Game\bin\Release\The Guessing Number Game.exe.config
+C:\Users\Socia\Desktop\Visual Studio Projects\The Guessing Number Game\bin\Release\The Guessing Number Game.exe
+C:\Users\Socia\Desktop\Visual Studio Projects\The Guessing Number Game\bin\Release\The Guessing Number Game.pdb
+C:\Users\Socia\Desktop\Visual Studio Projects\The Guessing Number Game\obj\Release\The Guessing Number Game.exe
+C:\Users\Socia\Desktop\Visual Studio Projects\The Guessing Number Game\obj\Release\The Guessing Number Game.pdb
